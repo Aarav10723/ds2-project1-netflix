@@ -10,4 +10,5 @@ This project explores trends in Netflix’s catalog using exploratory data analy
 
 ## View Project Files
 - [Code](project1_netflix_eda.ipynb)
+- [Code in HTML](project1_netflix_eda.html)
 - [Report](project1-report.pdf)

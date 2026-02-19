@@ -1,5 +1,4 @@
-**Back to Portfolio:**  
-https://aarav10723.github.io/Portfolio/
+[Back to Portfolio](https://aarav10723.github.io/Portfolio/)
 
 # Exploratory Data Analysis: Netflix Catalog
 
